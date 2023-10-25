@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Abhishek's personal programming blog. The Only Official One. He uses it to share interesting things that he learns on his journey as a Software Engineer.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Abhishek currently works as Lead Developer @[Jai Kisan][jk_landing_page], an Indian FinTech startup that specialises in financing the rural India.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+He is mostly interested in playing video games, wondering about a lot of things and thinking about solving real world problems using Code.
 
+Hope you find something interesting or of use here! Happy Hacking!
 
-[jekyll-organization]: https://github.com/jekyll
+[jk_landing_page]: https://jai-kisan.com
