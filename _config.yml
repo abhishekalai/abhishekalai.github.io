@@ -30,8 +30,6 @@ github_username:  abhishekalai
 theme: minima
 plugins:
   - jekyll-feed
-  - liquid_pluralize
-  - liquid_reading_time
 
 permalink: /:year/:month/:day/:title
 

@@ -6,8 +6,6 @@ categories: mongodb
 ---
 Level: `intermediate`
 
-Reading Time: {{ content | reading_time | pluralize: "minute" }}
-
 Pre-requisites: mongodb `CRUD` operations, `$text` operator in mongodb, `indexing` queries
 
 ### Search Techniques

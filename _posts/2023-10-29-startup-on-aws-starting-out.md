@@ -6,7 +6,6 @@ categories: startup, aws, ec2, software-development, deployment, applications
 ---
 
 Level: `beginner`
-Reading Time: {{ content | reading_time | pluralize: "minute" }}
 
 # About
 This blog is a part of and also the first entry in the "Startup on AWS" series which documents my journey of working with AWS at a startup with continuously evolving cloud infrastructure. 
@@ -22,7 +21,7 @@ All commands or code snippets are written with an Ubuntu server environment in m
 
 # Exploration
 
-When I got onboarded at Jai Kisan, I just knew that we would be
+When I got onboarded, I just knew that we would be
 
 - using MEAN (MongoDB ExpressJS Angular NodeJS) Stack
 - inheriting all of the applications that are running on a single EC2 instance
