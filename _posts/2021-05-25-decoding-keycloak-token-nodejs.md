@@ -6,6 +6,8 @@ categories: keycloak, jwt, typescript
 ---
 Level: `advanced`
 
+Reading Time: {{ content | reading_time | pluralize: "minute" }}
+
 Pre-requisites: NodeJS (TypeScript), Keycloak, JWT Concepts
 
 ### Overview
